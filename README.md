@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **smallpoxscattered/smallpoxscattered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=smallpoxscattered&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpoxscattered&theme=radical&hide=glsl,python&&layout=compact" width=42%/>
+
+<div align=center><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></div>
