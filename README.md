@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div  style="display: flex; flex-direction: row">
     <div style="width: 400px;  margin-left: 100px;"><img src="https://github-readme-stats.vercel.app/api?username=smallpoxscattered&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" width=400px height=200px/></div>
-    <div style="width: 400px; padding-top: 12px; margin-left: 180px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpoxscattered&theme=radical&hide=glsl,python&&layout=compact" width=500px height=180px /></div>
+    <div style="width: 400px; padding-top: 12px; margin-left: 180px;"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpoxscattered&theme=radical&hide=glsl,python&&layout=compact" width=500px height=180px /></div>
 </div><p>
 
 </p>
