@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 
 
-
+<img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smallpoxscattered&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" width=470px height=210px/>
 <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpoxscattered&theme=radical&hide=glsl,python&&layout=compact" width=400px height=200px />
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 See below to guess what I'm doing:
 
 - 🔭 I’m currently working on ...
