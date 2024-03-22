@@ -1,6 +1,6 @@
 <p style="color: blue; text-align: center;">HELLO WORLD</p>
 <div style="overflow: auto;">
-  <div style="float: left; width: 50%;">
+  <div style="float: center; width: 400px;">
     <p>See below to guess what I'm doing:</p>
     <ul>
       <li>🔭 I'm currently working on sleep</li>
@@ -12,9 +12,8 @@
       <li>😄 Pronouns: he</li>
     </ul>
   </div>
-  <div style="float: right;">
+  <div style="float: right;width: 400px;">
     <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF" width="400" height="200" />
-    
   </div>
 </div>
 
