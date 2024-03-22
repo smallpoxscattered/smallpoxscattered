@@ -1,22 +1,20 @@
+<p style="color: blue; text-align: center;">HELLO WORLD</p>
+<div style="overflow: auto;">
+  <div style="float: left; width: 50%;">
+    <p>See below to guess what I'm doing:</p>
+    <ul>
+      <li>🔭 I'm currently working on sleep</li>
+      <li>🌱 I'm currently learning sleep</li>
+      <li>👯 I'm looking to collaborate on ...</li>
+      <li>🤔 I'm looking for help with ...</li>
+      <li>💬 Ask me about How are you</li>
+      <li>📫 How to reach me: 1989838596@qq.com</li>
+      <li>😄 Pronouns: he</li>
+    </ul>
+  </div>
+  <div style="float: right;">
+    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width: 300px; height: 300px;">
+  </div>
+</div>
 
-=======
-
-
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=470px height=210px/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=smallpoxscattered&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" width=400px height=200px/>
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpoxscattered&theme=radical&hide=glsl,python&&layout=compact" width=400px height=200px />
-See below to guess what I'm doing:
-
-   - 🔭 I’m currently working on ...
-   - 🌱 I’m currently learning ...
-   - 👯 I’m looking to collaborate on ...
-   - 🤔 I’m looking for help with ...
-   - 💬 Ask me about ...
-   - 📫 How to reach me: ...
-   - 😄 Pronouns: ...
-
-
-
-
->>>>>>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smallpoxscattered&theme=react-dark)
